@@ -1,1 +1,1 @@
-install streamlit PyPDF2 spacy pandas matplotlib seaborn
+streamlit PyPDF2 spacy pandas matplotlib seaborn
